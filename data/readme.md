@@ -1,0 +1,1 @@
+The red abalone (H. rufescens) genome is used for read mapping. Genome files can be accessed at https://abalone.dbgenome.org/downloads.
