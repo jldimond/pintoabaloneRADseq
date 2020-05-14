@@ -1,0 +1,1 @@
+This is a repository for data and scripts associated with the PSRF pinto abalone RADseq project.
